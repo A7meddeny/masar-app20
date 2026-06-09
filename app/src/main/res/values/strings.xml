@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مسار - المناديب</string>
+
+    <!-- Setup -->
+    <string name="setup_title">أهلاً بك في تطبيق مسار</string>
+    <string name="setup_subtitle">أدخل رابط موقع شركتك</string>
+    <string name="setup_url_hint">vr2.umniate.com</string>
+    <string name="setup_continue">متابعة</string>
+    <string name="setup_invalid">الرابط غير صحيح</string>
+    <string name="setup_unreachable">تعذّر الاتصال بالموقع</string>
+
+    <!-- Login -->
+    <string name="login_title">تسجيل الدخول</string>
+    <string name="login_subtitle">أدخل بياناتك المسجّلة لدى الإدارة</string>
+    <string name="login_iqama">رقم الإقامة</string>
+    <string name="login_password">كلمة المرور</string>
+    <string name="login_btn">دخول</string>
+    <string name="login_change_site">تغيير الموقع</string>
+
+    <!-- Home -->
+    <string name="home_greeting">مرحبًا</string>
+    <string name="home_overview">نظرة عامة</string>
+    <string name="home_services">الخدمات</string>
+    <string name="home_history">سجل طلباتي</string>
+    <string name="home_logout">تسجيل خروج</string>
+
+    <!-- Tabs -->
+    <string name="tab_home">الرئيسية</string>
+    <string name="tab_services">الخدمات</string>
+    <string name="tab_history">طلباتي</string>
+    <string name="tab_profile">حسابي</string>
+
+    <!-- Services -->
+    <string name="srv_accident">إبلاغ عن حادث</string>
+    <string name="srv_advance">طلب سلفة</string>
+    <string name="srv_leave">طلب إجازة</string>
+    <string name="srv_complaint">شكوى</string>
+    <string name="srv_fuel">حصة بنزين</string>
+    <string name="srv_report">طلب تقرير</string>
+
+    <!-- Performance -->
+    <string name="perf_category">الفئة</string>
+    <string name="perf_rank">الترتيب بالمدينة</string>
+    <string name="perf_delivered">الطلبات المسلّمة</string>
+    <string name="perf_accepted">الطلبات الموكّلة</string>
+    <string name="perf_rejected">المرفوضة</string>
+    <string name="perf_late">المتأخرة</string>
+    <string name="perf_on_time">في الموعد</string>
+    <string name="perf_cancellations">الإلغاءات</string>
+    <string name="perf_vda">أيام العمل</string>
+    <string name="perf_target">هدف الطلبات</string>
+    <string name="perf_progress">التقدم نحو الهدف</string>
+
+    <!-- Salary -->
+    <string name="salary_title">الراتب الحالي</string>
+    <string name="salary_base">الراتب الأساسي</string>
+    <string name="salary_bonuses">المكافآت والإضافات</string>
+    <string name="salary_deductions">الخصومات</string>
+    <string name="salary_net">الصافي</string>
+
+    <!-- Common -->
+    <string name="loading">جاري التحميل…</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="no_internet">لا يوجد اتصال بالإنترنت</string>
+    <string name="submit">إرسال</string>
+    <string name="cancel">إلغاء</string>
+    <string name="back">رجوع</string>
+    <string name="confirm_logout">هل تريد تسجيل الخروج؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+</resources>

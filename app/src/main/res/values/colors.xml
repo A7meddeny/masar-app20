@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_red">#F04D45</color>
+    <color name="brand_red_dark">#D23C35</color>
+    <color name="brand_red_light">#FF6B65</color>
+    <color name="ink">#0F0F0F</color>
+    <color name="ink_2">#171717</color>
+    <color name="ink_3">#1F1F1F</color>
+    <color name="line">#2A2A2A</color>
+    <color name="txt">#F4F4F4</color>
+    <color name="txt_dim">#9A9A9A</color>
+    <color name="green">#37B26B</color>
+    <color name="amber">#E8A13A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
